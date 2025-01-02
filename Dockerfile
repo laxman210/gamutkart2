@@ -1,4 +1,4 @@
-FROM ubuntu:20.04 
+FROM ubuntu:24.04 
 MAINTAINER "info@wiculty.com"
 RUN apt-get update
 RUN apt-get install -y openjdk-11-jdk
